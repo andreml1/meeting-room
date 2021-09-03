@@ -1,6 +1,6 @@
-#Criando um gerenciador de salas de reuniões com Java e Angular.
+# Criando um gerenciador de salas de reuniões com Java e Angular.
 
-####Neste projeto estou desenvolvendo uma API com Spring Boot para gerenciar salas de reuniões, utilizarei o Spring Data para persistência de dados e o banco in-memory H2. E o Front End que irá consumir essa API será uma SPA escrita em Angular.
+#### Neste projeto estou desenvolvendo uma API com Spring Boot para gerenciar salas de reuniões, utilizarei o Spring Data para persistência de dados e o banco in-memory H2. E o Front End que irá consumir essa API será uma SPA escrita em Angular.
 
 Atualmente o projeto encontra-se em fase de expansão de funcionalidades e melhorias no código sendo executado pelo criador deste repositório.
 
